@@ -1,14 +1,14 @@
 
 
 # 🍿[Google-Drive-Directory-Index](https://github.com/Aicirou/goindex-theme-acrou)
-Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser by Using Cloudflare Workers &Google Drive API..    
+Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index your Google Drive files on the browser.    
 
 [go2index/index.js](https://github.com/Aicirou/goindex-theme-acrou/blob/main/go2index/index.js) is the content of the Workers script.  
 
 This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/).
 ## Demo  
 
-🚀 Go to: [https://chill.iitkgp.workers.dev/](https://chill.iitkgp.workers.dev/) 
+🚀 Go to: [https://chill.aicirou.workers.dev/](https://chill.aicirou.workers.dev/) 
 
 🛠 Quick Development: [here/](https://github.com/Aicirou/goindex-theme-acrou/edit/main/README.md#quick-deployment)
 
@@ -127,7 +127,7 @@ For more option, see APlayer [options](https://aplayer.js.org/#/home?id=options)
 - Optimize search results
 - Optimize page display
 
-## Lisense
+## License
 
 [MIT](LICENSE)
 
